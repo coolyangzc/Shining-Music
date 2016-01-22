@@ -1,0 +1,49 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M265 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2038 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\project\Unity\Shining Music\Shining Music_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.053 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\project\Unity\Shining Music\Shining Music_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2494 -> priority: 1 
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
